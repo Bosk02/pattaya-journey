@@ -1,2 +1,2 @@
-# pattaya-journey
-pattaya journey
+# kitchen-remodel-seattle
+kitchen remodel seattle
